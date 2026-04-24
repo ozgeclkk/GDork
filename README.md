@@ -43,10 +43,3 @@ Kurulum ve Çalıştırma
     Tarayıcınızdan şu adrese gidin:
     http://localhost:5050
 
-Ekran Görüntüleri
-
-
-    Ana Panel:<img width="1884" height="669" alt="resim" src="https://github.com/user-attachments/assets/e71f5498-fe8b-4dea-887f-908ff2a58e33" />
-
-
-    Analiz Sonuçları: <img width="1887" height="931" alt="resim" src="https://github.com/user-attachments/assets/1b2ae410-4959-4b4a-9fc1-86c548e44bff" />
